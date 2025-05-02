@@ -9,5 +9,5 @@ self.__uv$config = {
   bundle: "/uv/uv.bundle.js",
   config: "/uv/uv.config.js",
   sw: "/uv/uv.sw.js",
-  url: "https://biology-math.glitch.me"
+  url: "https://uv-school-safe.onrender.com"
 };
